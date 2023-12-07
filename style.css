@@ -1,0 +1,17 @@
+.udt{
+    display: flex;
+    margin: 50px;
+    gap: 30px;
+}
+.un{
+    border: 3px solid black;
+}
+.bnt{
+    padding: 1px;
+}
+.btp{
+    padding: 1px;
+}
+.htt{
+    padding: 1px;
+}
